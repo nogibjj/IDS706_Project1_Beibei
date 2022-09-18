@@ -20,7 +20,7 @@ def cli_query(query):
     """Execute a SQL query"""
     querydb(query)
 
-
+databricks fs ls dbfs:/
 # run the CLI
 if __name__ == "__main__":
     cli()
