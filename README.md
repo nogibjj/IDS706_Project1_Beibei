@@ -1,7 +1,7 @@
 # IDS706_Project1_Beibei
 This is the repository for IDS706 FA22 Project1 and this project assimilates the databricks
 ## The WorkFlow is the following:
-![alt text](https://user-images.githubusercontent.com/58792/189719737-fcdaf61f-93d2-415b-8eea-ebb96143187d.png)
+![alt text](https://github.com/belladu0201/Images_Beibei/blob/264b81b0f50758f202c7c941efa5433040aba566/Screen%20Shot%202022-09-18%20at%208.57.35%20PM.png)
 ## Steps:
 1. Go to `Kaggle` website and download a csv file dataset
 2. Set up Microsfot Azure Databricks and set up the single cluster
