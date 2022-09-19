@@ -11,3 +11,6 @@ This is the repository for IDS706 FA22 Project1 and this project assimilates the
 ## Dataset:
 - The dataset that I have downloaded is BikeSharing dataset (Link: https://www.kaggle.com/datasets/shrutipandit707/bikesharing), named as `day_2.csv` on Databricks
 -  This dataset provides the information about the bike rent status based on date, weather, etc features
+## Things to test out in the terminal/command line:
+- `make install`
+- 
