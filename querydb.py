@@ -11,6 +11,7 @@ with sql.connect(server_hostname = os.getenv("DATABRICKS_SERVER_HOSTNAME"),
 
     for row in result:
         print(row)
+        
 def querydb(query="SELECT * FROM default.day_2_csv LIMIT 2"):
     with sql.connect(
         server_hostname=os.getenv("DATABRICKS_SERVER_HOSTNAME"),
